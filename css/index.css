@@ -185,7 +185,7 @@ header .logo {
     display: flex;
 }
 
-.main-content .middle-img {
+.banner {
     max-width: 100%;
     display: block;
     margin: 30px auto;
